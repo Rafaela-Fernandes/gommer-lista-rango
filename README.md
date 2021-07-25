@@ -29,6 +29,18 @@ Projeto inicial
 3. A organização das branches e os commits no repositório
 4. Os produtos com promoção ativa, deve ser exibido o valor original e o valor promocional.
 
+### `Recursos react mais utilizado`
+1. hooks useEfect , useState, useMemo
+2. TypeScript + React 
+3. Passagem de props entre componentes 
+4. Passagem de parametro via url , utilizando useHistory (react-router-dom)
+5. Componentização
+
+### `Metodos JavaScript mais utilizados`
+1. map
+2. filter
+3. includes
+4. push
 
 ### `link explicando  a estrutura do projeto`
 https://loom.com/share/136af2a9f9af4d1a9e2008d89ee4fd91
